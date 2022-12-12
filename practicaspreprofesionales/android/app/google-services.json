@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "191931583857",
+    "project_id": "teamfreecode-ppp",
+    "storage_bucket": "teamfreecode-ppp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191931583857:android:99dc6a22ba70a841e3fad0",
+        "android_client_info": {
+          "package_name": "upeu.edu.pe.practicaspreprofesionales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191931583857-cmkpi5thic7c4418bbr8hv6ao7vold2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "upeu.edu.pe.practicaspreprofesionales",
+            "certificate_hash": "547aa72020fe847f7df6ce40172c54987595d231"
+          }
+        },
+        {
+          "client_id": "191931583857-lj4k8me9gvj2bcf437ivlp3j4qu57bq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs97h05cRT2YFsKjoFHhy1s3SZRLTCiaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191931583857-lj4k8me9gvj2bcf437ivlp3j4qu57bq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
